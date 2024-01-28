@@ -13,6 +13,9 @@ It is intended to ensure that the load at deceleration in Z is less.<br>
 It also counteracts sagging.<br>
 However, it increases the acceleration torque.<br>
 
+For this mod it is necessary that the Z drag chain hangs in the shadow of the gantry.<br>
+It is also necessary to replace the wide cable drag with the cable drag that is normally installed in X / Y.<br>
+
 <img src='images/group_1.png'><br>
 <br>
 <br>
@@ -25,7 +28,7 @@ beldholder_up:
 - 2x M3x5x4 Heatset Insert (for fixing the 8mm round rod)
 - 2x M3x6 SHCS or M3x10 SHCS (for fixing the 8mm round rod)
 - 4x M3x25 SHCS
-- 4x M3 nut (if possible self-locking but not a must)
+- 4x M3 Hexnut (if possible self-locking but not a must)
 - 4x M5x16 BHCS or SHCS
 - 2x M5x20 BHCS or 5x18 PIN shaft
 - 4x M5 T-Nut
@@ -51,8 +54,11 @@ counterweight:
 - 2x M3x25 SHCS
 - 6x M3x5x4 Heatset Insert
 - 10x M8x60 SHCS
-- 2x M3 nut (if possible self-locking but not a must)
-- 60x M10 Nut
-- 10x M8 Nut 
+- 2x M3 Hexnut (if possible self-locking but not a must)
+- 60x M10 Hexnut
+- 10x M8 Hexnut
 - 2x 8mm Linear bearing
-- ~5m GT2 6mm beld
+- ~2.1m GT2 6mm beld
+
+gantry:
+- 4x M5x16 BHCS
