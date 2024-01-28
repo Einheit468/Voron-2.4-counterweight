@@ -9,13 +9,15 @@ There are still missing:<br>
 - Pictures
 - Building instructions
 
-A counterweight to relieve the load on the gantry at the back.<br>
+A counterweight to relieve the load on the gantry at the back of a Voron 2.4 350.<br>
 It is intended to ensure that the load at deceleration in Z is less.<br>
 It also counteracts sagging.<br>
 However, it increases the acceleration torque.<br>
 
 For this mod it is necessary that the Z drag chain hangs in the shadow of the gantry.<br>
 It is also necessary to replace the wide cable drag with the cable drag that is normally installed in X / Y.<br>
+
+Currently the project is only suitable for Voron 2.4 350s.<br>
 
 <img src='images/group_1.png'><br>
 <br>
