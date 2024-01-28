@@ -61,4 +61,7 @@ counterweight:
 - ~2.1m GT2 6mm beld
 
 gantry:
+- 2x M3x10 BHCS
 - 4x M5x16 BHCS
+- 2x M3 T-Nut
+- 4x M5 T-Nut
