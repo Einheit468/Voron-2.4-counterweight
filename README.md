@@ -13,7 +13,7 @@ It is intended to ensure that the load at deceleration in Z is less.<br>
 It also counteracts sagging.<br>
 However, it increases the acceleration torque.<br>
 
-<img src='images/group_1.png' align="left"><br>
+<img src='images/group_1.png'><br>
 <br>
 BOM list:<br>
 beldholder_up:
