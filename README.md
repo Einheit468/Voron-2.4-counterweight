@@ -1,4 +1,5 @@
-Danger! Alpha status!<br>
+Attantion! Alpha status!<br>
+<br>
 Currently only the upper suspension is functional.<br>
 The main function is there, but the counterweight is not pulled directly when falling.<br>
 The underside of the gantry is still missing.<br>
