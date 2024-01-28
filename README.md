@@ -4,10 +4,10 @@ Currently, only the upper suspension is functional.<br>
 The main function is there, but the counterweight is not pulled directly when falling.<br>
 The underside of the gantry is still missing.<br><br>
 There are still missing:<br>
-- BOM list
-- Print Part List
-- Pictures
-- Building instructions
+- BOM list<br>
+- Print Part List<br>
+- Pictures<br>
+- Building instructions<br><br>
 
 A counterweight to relieve the load on the gantry at the back of a Voron 2.4 350.<br>
 It is intended to ensure that the load at deceleration in Z is less.<br>
