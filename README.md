@@ -1,21 +1,21 @@
-Danger! Alpha status!
-Currently only the upper suspension is functional.
-The main function is there, but the counterweight is not pulled directly when falling.
-The underside of the gantry is still missing.
-There are still missing:
+Danger! Alpha status!<br>
+Currently only the upper suspension is functional.<br>
+The main function is there, but the counterweight is not pulled directly when falling.<br>
+The underside of the gantry is still missing.<br>
+There are still missing:<br>
 - BOM list
 - Print Part List
 - Pictures
 - Building instructions
 
-A counterweight to relieve the load on the gantry at the back.
-It is intended to ensure that the load at deceleration in Z is less.
-It also counteracts sagging.
-However, it increases the acceleration torque.
+A counterweight to relieve the load on the gantry at the back.<br>
+It is intended to ensure that the load at deceleration in Z is less.<br>
+It also counteracts sagging.<br>
+However, it increases the acceleration torque.<br>
 
-<img src='images/group_1.png' align="left">
-
-BOM list:
+<img src='images/group_1.png' align="left"><br>
+<br>
+BOM list:<br>
 beldholder_up:
 - 2x M3x5x4 Heatset Insert (for fixing the 8mm round rod)
 - 2x M3x6 or M3x10 (for fixing the 8mm round rod)
