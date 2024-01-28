@@ -1,2 +1,2 @@
-.SLDPRT (Solidworks Dateien) sind Ursprung.
-.STEP sind extrahiert
+".SLDPRT" (Solidworks files) are origin.
+".STEP" are extracted
