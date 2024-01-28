@@ -12,3 +12,5 @@ A counterweight to relieve the load on the gantry at the back.
 It is intended to ensure that the load at deceleration in Z is less.
 It also counteracts sagging.
 However, it increases the acceleration torque.
+
+<img src='images/group_1.png' align="left">
