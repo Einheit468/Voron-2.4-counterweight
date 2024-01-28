@@ -1,4 +1,4 @@
-Attantion! Alpha status!<br>
+Danger! Alpha status!<br>
 <br>
 Currently only the upper suspension is functional.<br>
 The main function is there, but the counterweight is not pulled directly when falling.<br>
