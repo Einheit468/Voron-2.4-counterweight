@@ -21,6 +21,7 @@ At the moment the project is only suitable for Voron 2.4 350.<br>
 
 <img src='images/20240124_230348.jpg' width='800'> <br>
 The weight is intentionally relaxed in the picture.
+The lower strap is not mounted.
 
 ### Required Hardware:<br>
 SHCS = normal scew/DIN912<br>
