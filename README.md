@@ -24,9 +24,9 @@ The weight is intentionally relaxed in the picture.
 The lower strap is not mounted.
 
 ### Required Hardware:<br>
-SHCS = normal scew/DIN912<br>
+SHCS = normal screw/DIN912<br>
 FHCS = flat-head cap screw/ISO10642<br>
-BHCS = button head screws/ISO7380-1<br>
+BHCS = button head screw/ISO7380-1<br>
 
 #### beldholder_up:
 | Qty | Item              | Notes                                                                                                                       |
