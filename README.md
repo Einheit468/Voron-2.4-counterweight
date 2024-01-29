@@ -76,3 +76,8 @@ BHCS = button head screws/ISO7380-1<br>
 | 4   | M5x16 BHCS        |                                                                                                                             |
 | 2   | M3 T-Nut          |                                                                                                                             |
 | 4   | M5 T-Nut          |                                                                                                                             |
+<br>
+<br>
+<br>
+Special Thanks to:<br>
+spitzbirne32
