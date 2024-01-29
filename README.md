@@ -1,23 +1,23 @@
 # Danger! Alpha status!<br>
 <br>
 <img src='images/group_1.png' align="right" width='400'>
-Currently, only the upper suspension is functional.<br>
-The main function is there, but the counterweight is not pulled directly when falling.<br>
-The underside of the gantry is still missing.<br><br>
-There are still missing:<br>
-- Print Part List<br>
-- Pictures<br>
-- Building instructions<br><br>
 
-A counterweight to relieve the load on the gantry at the back of a Voron 2.4 350.<br>
-It is intended to ensure that the load at deceleration in Z is less.<br>
-It also counteracts sagging.<br>
-However, it increases the acceleration torque.<br>
+This project introduces a counterweight system designed specifically for the rear section of a Voron 2.4 350 3D printer. The primary objective of this system is to mitigate the load stress on the gantry, especially during rapid Z-axis deceleration. This not only helps in reducing the strain but also prevents the gantry from sagging. However, it's important to note that this modification might result in increased torque during acceleration.
 
-For this mod, it is necessary that the Z drag chain hangs in the shadow of the gantry.<br>
-It is also necessary to replace the wide cable drag with the cable drag that is normally installed in X / Y.<br>
+**Currently, only the upper suspension is functional.**
 
-At the moment the project is only suitable for Voron 2.4 350.<br>
+The current state of the project focuses on enhancing the functionality of the upper suspension system. Although the primary mechanism is operational, there is an inefficiency in the way the counterweight engages during a fall, which needs attention.
+
+Key components still under development include:
+
+-   A comprehensive list of required print parts.
+-   Visual documentation through photographs.
+-   Detailed assembly instructions.
+
+
+For successful implementation of this modification, it is essential that the Z-axis drag chain be positioned within the gantry's shadow. Additionally, this mod requires replacing the broader cable drag chain with a more compact version, typically used in the X/Y axes.
+
+As of now, this project is exclusively compatible with the Voron 2.4 350 model. Further adaptations and refinements are in progress to broaden its applicability.
 
 <img src='images/20240124_230348.jpg' width='800'> <br>
 The weight is intentionally relaxed in the picture.
