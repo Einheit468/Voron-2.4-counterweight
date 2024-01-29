@@ -1,5 +1,6 @@
 # Danger! Alpha status!<br>
 <br>
+<img src='images/group_1.png' align="right" width='400'>
 Currently, only the upper suspension is functional.<br>
 The main function is there, but the counterweight is not pulled directly when falling.<br>
 The underside of the gantry is still missing.<br><br>
@@ -18,9 +19,9 @@ It is also necessary to replace the wide cable drag with the cable drag that is 
 
 At the moment the project is only suitable for Voron 2.4 350.<br>
 
-<img src='images/group_1.png'><br>
-<br>
-<br>
+<img src='images/20240124_230348.jpg' width='800'> <br>
+
+
 ### Required Hardware:<br>
 SHCS = normal scew/DIN912<br>
 FHCS = flat-head cap screw/ISO10642<br>
