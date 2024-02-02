@@ -1,10 +1,12 @@
-# Danger! Alpha status!<br>
+> [!CAUTION]
+> # Danger! Alpha status!<br>
 <br>
 <img src='images/group_1.png' align="right" width='400'>
 
 This project introduces a counterweight system designed specifically for the rear section of a Voron 2.4 350 3D printer. The primary objective of this system is to mitigate the load stress on the gantry, especially during rapid Z-axis deceleration. This not only helps in reducing the strain but also prevents the gantry from sagging. However, it's important to note that this modification might result in increased torque during acceleration.
 
-**Currently, only the upper suspension is functional.**
+> [!WARNING]
+> **Currently, only the upper suspension is functional.**
 
 The current state of the project focuses on enhancing the functionality of the upper suspension system. Although the primary mechanism is operational, there is an inefficiency in the way the counterweight engages during a fall, which needs attention.
 
