@@ -14,13 +14,13 @@ Printing the Parts with the normal Settings of the Voron build.
 > [!WARNING]
 > The instructions refer to converting a built Voron.
 
-**replacing cable drag:**<br>
+# 01 replacing cable drag:<br>
 placeholder for future...
 
-**beldholder down:**<br>
+# 02 beldholder down:<br>
 <img src='images/beldholder_down_1.png' width='1000'>
 
-***Part Preparation:***<br>
+## 02.1 Part Preparation:<br>
 <img src='images/beldholder_down_middle_1.png' align="left" width='450'> <img src='images/beldholder_down_reight_1.png' align="middle" width='360'> <br>
 Please do the same on the left side as on the right side.
 <br>
@@ -37,7 +37,7 @@ Be careful that the screws do not fall out when moving.
 
 
 
-***Align and assemble:***<br>
+## 02.2 Align and assemble:<br>
 Distribute the M3 and M5 T-nut in the frame.
 To do this, place the beldholder-down-group on the aluminum profile as a test.
 
@@ -47,8 +47,8 @@ To do this, place the beldholder-down-group on the aluminum profile as a test.
 remove "cable_towing_support again for wiring.<br>
 <img src='images/beldholder_down_6.png' width='600'>
 
-**counterweight:**<br>
+# 03 counterweight:<br>
 placeholder for future...
 
-**beldholder up:**<br>
+# 04 beldholder up:<br>
 placeholder for future...
