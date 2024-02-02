@@ -4,8 +4,8 @@
 
 Printing the Parts with the normal Settings of the Voron build.
 - Material: ABS
-- Layer Heigh: 0.2mm
-- Extrrusion Weidth: 0.4
+- Layer heigh: 0.2mm
+- Extrusion weidth: 0.4
 - Infill: Grid, Gyroid, Honeycomb, Triangle or Cubic
 - Infill Percentage: Recommended: 40%
 - Wall Count: Recommended: 4
@@ -38,13 +38,13 @@ Be careful that the screws do not fall out when moving.
 
 
 ***Align and assemble:***<br>
-
-
-
 Distribute the M3 and M5 T-nut in the frame.
 To do this, place the beldholder-down-group on the aluminum profile as a test.
 
-remove "cable_towing_support again for wiring.
+
+
+
+remove "cable_towing_support again for wiring.<br>
 <img src='images/beldholder_down_6.png' width='600'>
 
 **counterweight:**<br>
