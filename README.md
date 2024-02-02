@@ -26,7 +26,11 @@ The weight is intentionally relaxed in the picture.
 The lower strap is not mounted.
 
 ### Required Hardware:<br>
-List of Hardware: [BOM](/MOB.md)
+* List of Hardware: [BOM](/BOM.md)
+
+### Build guide:<br>
+* [Build](/Build.md)
+
 
 <br>
 <br>
