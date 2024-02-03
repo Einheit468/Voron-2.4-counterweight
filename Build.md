@@ -30,6 +30,7 @@ Please do the same on the left side as on the right side.
 <br>
 <br>
 <img src='images/beldholder_down_5.png' width='1000'> 
+Loosely insert the screws into the holes shown.
 Be careful that the screws do not fall out when moving.
 <br>
 <br>
