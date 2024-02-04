@@ -17,9 +17,25 @@ Printing the Parts with the normal Settings of the Voron build.
 > The instructions refer to converting a built Voron, with a Can-Bus Toolhead.
 > Because the Z-cable drag needs to be replaced with the thinner ones.
 
-# 01 replacing cable drag:<br>
+# 01 modification AB-Gantry:<br>
+* For better assembly, move or push the gantry approximately 2/3 upwards.<br>
+* Completely remove the existing Z drag.<br>
+* Insert 2x M3 Heat Set Inserts for the cable drag attachment into the "beldholder_flexible_button_cable_drag".<br>
 
-coming soon...
+<img src='images/gantry_3.png' width='500'><br>
+(The image is without AB_Drive_Units, it starts where the profile ends.)
+<br>
+* Attach the button parts with stops to the original "AB_Drive_Units".<br>
+* To do this, place M3 and M5 T-slots in the aluminum profile.<br>
+* And fasten with the M3 screws provided.<br>
+* Then attach the timing belts to the holders with the M5x16 screws.<br>
+* Fill the cables with the narrower cable tow that you have from the X or Y tow, for example, as the Z tow. (Reason: The original Z-cable tow is wider than the aluminum profile)<br>
+
+* Attach the cable tow to the top with the bracket.<br>
+* Please note that the cable for the left motor branches off into the aluminum profile before it is attached.<br>
+
+* Attention, the motor cable of the left motor is tight.<br>
+
 
 # 02 beldholder down:<br>
 <img src='images/beldholder_down_1.png' width='1000'>
