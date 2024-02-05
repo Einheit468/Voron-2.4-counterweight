@@ -21,7 +21,7 @@ For successful implementation of this modification, it is essential that the Z-a
 
 As of now, this project is exclusively compatible with the Voron 2.4 350 model. Further adaptations and refinements are in progress to broaden its applicability.
 
-<img src='images/20240124_230348.jpg' width='800'> <br>
+<img src='picture/group_01.jpg' width='800'> <br>
 The weight is intentionally relaxed in the picture.
 The lower strap is not mounted.
 
