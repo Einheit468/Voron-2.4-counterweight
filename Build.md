@@ -2,6 +2,7 @@ back to [Main Page](README.md)
 
 > [!CAUTION]
 > # Edit Mode!<br>
+> There is still a lot of description and pictures missing.
 <br>
 
 Printing the Parts with the normal Settings of the Voron build.
@@ -28,7 +29,7 @@ Printing the Parts with the normal Settings of the Voron build.
 (The image is without AB_Drive_Units, it starts where the profile ends.)
 <br>
 <img src='picture/gantry_01.jpg' align="left" width='320'>
-<img src='picture/gantry_02.jpg' align="middle" width='320'>
+<img src='picture/gantry_02.jpg' align="center" width='320'>
 <img src='picture/gantry_03.jpg' align="right" width='320'><br>
 * Attach the button parts with stops to the original "AB_Drive_Units".<br>
 * To do this, place M3 and M5 T-slots in the aluminum profile.<br>
@@ -75,7 +76,27 @@ remove "cable_towing_support again for wiring.<br>
 <img src='images/beldholder_down_6.png' width='600'>
 
 # 03 counterweight:<br>
-coming soon...
+
+<p>
+<img src='picture/counterweight_06.jpg' align="left" width='320'>
+<img src='picture/counterweight_11.jpg' align="center" width='200'>
+<p/> <br>
+* Pierce the holes in the support with the M8 screws.<br>
+* Insert the M10 nuts and then tighten with the M8 nut. (But be careful, it's just plastic.)<br>
+* insert the 2 longitudinal bearings into the recess.<br>
+* also put the 2 fits behind it.
+<br>
+<p>
+<img src='picture/counterweight_12.jpg' align="left" width='300'> 
+<img src='picture/counterweight_13.jpg' align="center" width='300'> 
+<img src='picture/counterweight_14.jpg' align="right" width='300'>
+<p/>
+
+<p>
+<img src='picture/counterweight_15.jpg' width='200'><br>
+<p/>
+Don't forget to attach the M3 Heat Set Inserts to the bottom for the lid.
 
 # 04 beldholder up:<br>
+
 coming soon...
