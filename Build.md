@@ -82,7 +82,8 @@ remove "cable_towing_support again for wiring.<br>
 <img src='picture/counterweight_11.jpg' align="center" width='200'>
 <p/> <br>
 * Pierce the holes in the support with the M8 screws.<br>
-* Insert the M10 nuts and then tighten with the M8 nut. (But be careful, it's just plastic.)<br>
+* Insert 6x M10 nuts into each screw and then tighten with the M8 nut. (But be careful, it's just plastic.)<br>
+* Put as much weight as you think of. (I currently have 8 screws in it.)
 * insert the 2 longitudinal bearings into the recess.<br>
 * also put the 2 fits behind it.
 <br>
