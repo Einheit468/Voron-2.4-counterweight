@@ -23,8 +23,13 @@ Printing the Parts with the normal Settings of the Voron build.
 * Insert 2x M3 Heat Set Inserts for the cable drag attachment into the "beldholder_flexible_button_cable_drag".<br>
 
 <img src='images/gantry_3.png' width='500'><br>
+
+
 (The image is without AB_Drive_Units, it starts where the profile ends.)
 <br>
+<img src='picture/gantry_01.jpg' align="left" width='320'>
+<img src='picture/gantry_02.jpg' align="middle" width='320'>
+<img src='picture/gantry_03.jpg' align="right" width='320'><br>
 * Attach the button parts with stops to the original "AB_Drive_Units".<br>
 * To do this, place M3 and M5 T-slots in the aluminum profile.<br>
 * And fasten with the M3 screws provided.<br>
