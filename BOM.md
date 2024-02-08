@@ -1,11 +1,20 @@
 back to [Main Page](README.md)
 
-# Required Hardware:<br>
+__Table of contents__
+- [Required Hardware](#Required Hardware)
+- [beldholder_up](#beldholder_up)
+- [beldholder_down](#beldholder_down)
+- [counterweight](#counterweight)
+- [gantry](#gantry)
+
+
+# Required Hardware
 SHCS = normal screw/DIN912<br>
 FHCS = flat-head cap screw/ISO10642<br>
 BHCS = button head screw/ISO7380-1<br>
 
-# beldholder_up:
+# beldholder_up
+&uarr; [back to topic](#top)<br>
 
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +29,8 @@ BHCS = button head screw/ISO7380-1<br>
 | 4   | M5 Shim Ring      | ~1mm thick                                                                                                                  |
 
 
-# beldholder_down:
+# beldholder_down
+&uarr; [back to topic](#top)<br>
 
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -38,7 +48,8 @@ BHCS = button head screw/ISO7380-1<br>
 | 4   | F695-2RS Precision Bearing |                                                                                                                    |
 | 4   | M5 Shim Ring      | ~1mm thick                                                                                                                  |
 
-# counterweight:
+# counterweight
+&uarr; [back to topic](#top)<br>
 
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -51,7 +62,8 @@ BHCS = button head screw/ISO7380-1<br>
 | 10  | M8 Hexnut         |                                                                                                                             |
 | 2   | 8mm Linear bearing |  45mm long                                                                                                                 |
 
-# gantry:
+# gantry
+&uarr; [back to topic](#top)<br>
 
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
