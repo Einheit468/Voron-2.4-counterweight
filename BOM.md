@@ -1,7 +1,7 @@
 back to [Main Page](README.md)
 
 __Table of contents__
-- [Required Hardware](#Required Hardware)
+- [Required Hardware](#Required-Hardware)
 - [beldholder_up](#beldholder_up)
 - [beldholder_down](#beldholder_down)
 - [counterweight](#counterweight)
