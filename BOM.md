@@ -2,10 +2,10 @@ back to [Main Page](README.md)
 
 __Table of contents__
 - [Required Hardware](#Required-Hardware)
-- [beldholder_up](#beldholder_up)
-- [beldholder_down](#beldholder_down)
-- [counterweight](#counterweight)
-- [gantry](#gantry)
+- [BOM beldholder_up](#beldholder_up)
+- [BOM beldholder_down](#beldholder_down)
+- [BOM counterweight](#counterweight)
+- [BOM gantry](#gantry)
 
 
 # Required Hardware
