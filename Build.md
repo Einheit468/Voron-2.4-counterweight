@@ -47,7 +47,7 @@ _(The image is without AB_Drive_Units, it starts where the profile ends.)_
 * Attach the button parts with stops to the original "AB_Drive_Units".<br>
 * To do this, place M3 and M5 T-slots in the aluminum profile.<br>
 * And fasten with the M3 screws provided.<br>
-* cut the down belts to >55mm leng (leng not final tested!).
+* cut the down belts to 58mm leng (leng not final tested!).
 * cut the up belts to 47mm leng.
 * Then attach the timing belts to the holders with the M5x16 screws.<br>
 * Fill the cables with the narrower cable tow that you have from the X or Y tow, for example, as the Z tow. (Reason: The original Z-cable tow is wider than the aluminum profile)<br>
