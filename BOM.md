@@ -1,11 +1,12 @@
 back to [Main Page](README.md)
 
-### Required Hardware:<br>
+# Required Hardware:<br>
 SHCS = normal screw/DIN912<br>
 FHCS = flat-head cap screw/ISO10642<br>
 BHCS = button head screw/ISO7380-1<br>
 
-#### beldholder_up:
+# beldholder_up:
+
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 2   | M3 Heatset Insert | Standard Voron spec: 5mm Outer Diameter x 4mm Length - for fixing the 8mm round rod                                         |
@@ -19,7 +20,8 @@ BHCS = button head screw/ISO7380-1<br>
 | 4   | M5 Shim Ring      | ~1mm thick                                                                                                                  |
 
 
-#### beldholder_down:
+# beldholder_down:
+
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 2   | M3 Heatset Insert | Standard Voron spec: 5mm Outer Diameter x 4mm Length - for fixing the 8mm round rod                                         |
@@ -36,7 +38,8 @@ BHCS = button head screw/ISO7380-1<br>
 | 4   | F695-2RS Precision Bearing |                                                                                                                    |
 | 4   | M5 Shim Ring      | ~1mm thick                                                                                                                  |
 
-#### counterweight:
+# counterweight:
+
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 6   | M3x12 SHCS or M3x16 SHCS |                                                                                                                      |
@@ -48,7 +51,8 @@ BHCS = button head screw/ISO7380-1<br>
 | 10  | M8 Hexnut         |                                                                                                                             |
 | 2   | 8mm Linear bearing |  45mm long                                                                                                                 |
 
-#### gantry:
+# gantry:
+
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 2   | M3 Heatset Insert | Standard Voron spec: 5mm Outer Diameter x 4mm Length - for fixing the cable drag                                            |
