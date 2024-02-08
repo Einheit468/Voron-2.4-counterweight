@@ -1,5 +1,8 @@
 back to [Main Page](README.md)
 
+__Table of contents__
+- [01 modification AB-Gantry](#01)
+
 Printing the Parts with the normal Settings of the Voron build.
 - Material: ABS
 - Layer heigh: 0.2mm
@@ -14,7 +17,9 @@ Printing the Parts with the normal Settings of the Voron build.
 > Because the Z-cable drag needs to be replaced with the thinner ones.<br>
 > Don't be surprised, the pictures are still old, the STL files are newer and correct.<br>
 
-# 01 modification AB-Gantry:<br>
+# 01 modification AB-Gantry:
+&uarr; [back to topic](#top)<br>
+
 * For better assembly, move or push the gantry approximately 2/3 upwards.<br>
 * Completely remove the existing Z drag.<br>
 * Insert 2x M3 Heat Set Inserts for the cable drag attachment into the "beldholder_flexible_button_cable_drag".<br>
@@ -44,7 +49,8 @@ _(The image is without AB_Drive_Units, it starts where the profile ends.)_
 * Attention, the motor cable of the left motor is tight.<br>
 
 
-# 02 beldholder down:<br>
+# 02 beldholder down:
+&uarr; [back to topic](#top)<br>
 <img src='images/beldholder_down_1.png' width='500'>
 <br>
 <p>
@@ -76,8 +82,8 @@ _(The image is without AB_Drive_Units, it starts where the profile ends.)_
 * then attach all screws through the holes to the T-slot nuts<br>
 * Attach the cable trailing end to the support.
 
-# 03 counterweight:<br>
-
+# 03 counterweight:
+&uarr; [back to topic](#top)<br>
 <p>
 <img src='picture/counterweight_06.jpg' height='150'>
 <img src='picture/counterweight_11.jpg' height='150'>
@@ -97,8 +103,8 @@ _(The image is without AB_Drive_Units, it starts where the profile ends.)_
 
 Don't forget to attach the M3 Heat Set Inserts to the bottom for the lid.
 
-# 04 beldholder up:<br>
-
+# 04 beldholder up:
+&uarr; [back to topic](#top)<br>
 <p>
 <img src='images/beldholder_up_left_1.png' height='200'>
 <img src='images/beldholder_up_left_2.png' height='200'>
@@ -106,5 +112,6 @@ Don't forget to attach the M3 Heat Set Inserts to the bottom for the lid.
 <p/> <br>
 coming soon...
 
-# 05 Hang and tension:<br>
+# 05 Hang and tension:
+&uarr; [back to topic](#top)<br>
 coming soon...
