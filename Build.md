@@ -4,7 +4,12 @@ __Table of contents__
 - [01 Printing](#01-Printing)
 - [02 modification AB-Gantry](#02-modification-AB-Gantry)
 - [03 beldholder down](#03-beldholder-down)
-- 
+- [04 counterweight](#04-counterweight)
+- [05 beldholder up](#05-beldholder-up)
+- [06 hang and tension](#06-hang-and-tension)
+
+<br>
+<br>
 
 # 01 Printing
 Printing the Parts with the normal Settings of the Voron build.
@@ -116,6 +121,6 @@ Don't forget to attach the M3 Heat Set Inserts to the bottom for the lid.
 <p/> <br>
 coming soon...
 
-# 06 Hang and tension
+# 06 hang and tension
 &uarr; [back to topic](#top)<br>
 coming soon...
