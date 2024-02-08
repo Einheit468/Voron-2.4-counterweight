@@ -1,8 +1,12 @@
 back to [Main Page](README.md)
 
 __Table of contents__
-- [01 modification AB-Gantry](#01)
+- [01 Printing](#01-Printing)
+- [02 modification AB-Gantry](#02-modification-AB-Gantry)
+- [03 beldholder down](#03-beldholder-down)
+- 
 
+# 01 Printing
 Printing the Parts with the normal Settings of the Voron build.
 - Material: ABS
 - Layer heigh: 0.2mm
@@ -17,7 +21,7 @@ Printing the Parts with the normal Settings of the Voron build.
 > Because the Z-cable drag needs to be replaced with the thinner ones.<br>
 > Don't be surprised, the pictures are still old, the STL files are newer and correct.<br>
 
-# 01 modification AB-Gantry:
+# 02 modification AB-Gantry
 &uarr; [back to topic](#top)<br>
 
 * For better assembly, move or push the gantry approximately 2/3 upwards.<br>
@@ -49,7 +53,7 @@ _(The image is without AB_Drive_Units, it starts where the profile ends.)_
 * Attention, the motor cable of the left motor is tight.<br>
 
 
-# 02 beldholder down:
+# 03 beldholder down
 &uarr; [back to topic](#top)<br>
 <img src='images/beldholder_down_1.png' width='500'>
 <br>
@@ -82,7 +86,7 @@ _(The image is without AB_Drive_Units, it starts where the profile ends.)_
 * then attach all screws through the holes to the T-slot nuts<br>
 * Attach the cable trailing end to the support.
 
-# 03 counterweight:
+# 04 counterweight
 &uarr; [back to topic](#top)<br>
 <p>
 <img src='picture/counterweight_06.jpg' height='150'>
@@ -103,7 +107,7 @@ _(The image is without AB_Drive_Units, it starts where the profile ends.)_
 
 Don't forget to attach the M3 Heat Set Inserts to the bottom for the lid.
 
-# 04 beldholder up:
+# 05 beldholder up
 &uarr; [back to topic](#top)<br>
 <p>
 <img src='images/beldholder_up_left_1.png' height='200'>
@@ -112,6 +116,6 @@ Don't forget to attach the M3 Heat Set Inserts to the bottom for the lid.
 <p/> <br>
 coming soon...
 
-# 05 Hang and tension:
+# 06 Hang and tension
 &uarr; [back to topic](#top)<br>
 coming soon...
