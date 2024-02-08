@@ -26,7 +26,7 @@ Printing the Parts with the normal Settings of the Voron build.
 <img src='images/gantry_3.png' height='300'><br>
 
 
-(The image is without AB_Drive_Units, it starts where the profile ends.)
+_(The image is without AB_Drive_Units, it starts where the profile ends.)_
 <br>
 <p>
 <img src='picture/gantry_01.jpg' align="left" width='320'>
@@ -54,25 +54,31 @@ Printing the Parts with the normal Settings of the Voron build.
 <p>
 <img src='images/beldholder_down_middle_1.png' height='300'> <img src='images/beldholder_down_reight_1.png' height='300'>
 <p/>
+  
 * Insert M3 Heat Set Inserts<br>
 * Please do the same on the left side as on the right side.<br>
 <br>
-* Place the "T-Nut_Tool" on the aluminum profile
-And insert the T-Nut. The side of the label is the side where the thread is located.<br>
+
+* Place the "T-Nut_Tool" on the aluminum profile and insert the T-Nut. <br> The side of the label is the side where the thread is located.<br>
 * remove the "T-Nut_Tool"<br>
 * bring the printparts to the aluminum profile<br>
 <br>
 <img src='images/beldholder_down_5.png' width='500'> <br>
+
 * insert the screws into the holes provided on the T-nut. But only tighten the screws loosely.<br>
 <br>
 <img src='images/beldholder_down_6.png' width='500'> <br>
+  
 * Lay the cables for the tow as shown. <br> 
+* And do not tighten the cable ties completely. <br> The cable should still be able to move back and forth. <br> The cable ties are initially used to ensure that no cables are crushed. <br>
+* Cut off the ends of the cable ties. <br> 
 <br>
 <img src='images/beldholder_down_7.png' width='500'> <br>
+
 * Set up the "cable_towing_support"<br>
 * align all parts and tighten the screws for the "cable_towing_support" first<br>
 * then attach all screws through the holes to the T-slot nuts<br>
-
+* Attach the cable trailing end to the support.
 
 # 03 counterweight:<br>
 
@@ -83,7 +89,7 @@ And insert the T-Nut. The side of the label is the side where the thread is loca
   
 * Pierce the holes in the support with the M8 screws.<br>
 * Insert 6x M10 nuts into each screw and then tighten with the M8 nut. (But be careful, it's just plastic.)<br>
-* Put as much weight as you think of. (I currently have 8 screws in it.)
+* Put as much weight as you think of. (I currently have 8 screws in it.) <br>
 * insert the 2 longitudinal bearings into the recess.<br>
 * also put the 2 fits behind it.<br>
 <p>
