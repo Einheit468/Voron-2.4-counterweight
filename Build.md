@@ -17,6 +17,7 @@ Printing the Parts with the normal Settings of the Voron build.
 > [!WARNING]
 > The instructions refer to converting a built Voron, with a Can-Bus Toolhead.
 > Because the Z-cable drag needs to be replaced with the thinner ones.
+> Don't be surprised, the pictures are still old, the STL files are newer and correct.
 
 # 01 modification AB-Gantry:<br>
 * For better assembly, move or push the gantry approximately 2/3 upwards.<br>
