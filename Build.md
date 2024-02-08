@@ -1,10 +1,5 @@
 back to [Main Page](README.md)
 
-> [!CAUTION]
-> # Edit Mode!<br>
-> There is still a lot of description and pictures missing.
-<br>
-
 Printing the Parts with the normal Settings of the Voron build.
 - Material: ABS
 - Layer heigh: 0.2mm
@@ -104,4 +99,12 @@ Don't forget to attach the M3 Heat Set Inserts to the bottom for the lid.
 
 # 04 beldholder up:<br>
 
+<p>
+<img src='images/beldholder_up_left_1.png' height='200'>
+<img src='images/beldholder_up_left_2.png' height='200'>
+<img src='picture/up_04.jpg' height='200'>
+<p/> <br>
+coming soon...
+
+# 05 Hang and tension:<br>
 coming soon...
