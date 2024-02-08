@@ -1,25 +1,29 @@
-> [!CAUTION]
-> # Danger! Alpha status!<br>
-<br>
 <img src='images/group_1.png' align="right" width='400'>
 
-This project introduces a counterweight system designed specifically for the rear section of a Voron 2.4 350 3D printer. The primary objective of this system is to mitigate the load stress on the gantry, especially during rapid Z-axis deceleration. This not only helps in reducing the strain but also prevents the gantry from sagging. However, it's important to note that this modification might result in increased torque during acceleration.
+The project is currently intended exclusively for Voron 2.4 350mm. <br>
+The counterweight relieves the load on the rear Z stepper motors.<br>
+Possible sagging of the gantry is also reduced.<br>
+
+The disadvantage is that the acceleration force and braking force are increased.<br>
 
 > [!WARNING]
-> **Currently, only the upper suspension is functional.**
+> **The project is not yet fully completed.** <br>
+> the building instructions are not finished yet. <br>
+> 
 
-The current state of the project focuses on enhancing the functionality of the upper suspension system. Although the primary mechanism is operational, there is an inefficiency in the way the counterweight engages during a fall, which needs attention.
+> [!IMPORTANT]
+> The Z cable tie must/should be exchanged for one of the narrower X or Y cable ties.
 
-Key components still under development include:
+> [!IMPORTANT]
+> <img src='images/corner_brackets.png' width='300'> <br>
+> The corner brackets should also be attached to the ends of the heated bed bracket on the frame.
 
--   A comprehensive list of required print parts.
--   Visual documentation through photographs.
--   Detailed assembly instructions.
-
-
-For successful implementation of this modification, it is essential that the Z-axis drag chain be positioned within the gantry's shadow. Additionally, this mod requires replacing the broader cable drag chain with a more compact version, typically used in the X/Y axes.
-
-As of now, this project is exclusively compatible with the Voron 2.4 350 model. Further adaptations and refinements are in progress to broaden its applicability.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <img src='picture/group_01.jpg' width='800'> <br>
 The weight is intentionally relaxed in the picture.
