@@ -18,26 +18,18 @@ The disadvantage is that the acceleration force and braking force are increased.
 > <img src='images/corner_brackets.png' width='300'> <br>
 > The __corner brackets__ should also be attached to the ends of the heated bed bracket on the frame.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<img src='picture/group_01.jpg' width='700'> <br>
-_The weight is intentionally relaxed in the picture.
-The lower strap is not mounted._
-
 ### Required Hardware:<br>
 * List of Hardware: [BOM](/BOM.md)
 
 ### Build guide:<br>
 * [Build](/Build.md)
 
+<img src='picture/group_01.jpg' width='700'> <br>
+_The weight is intentionally relaxed in the picture.
+The lower strap is not mounted._
 
 <br>
 <br>
-<br>
-Special Thanks to:<br>
-spitzbirne32
+
+# Special Thanks to
+__spitzbirne32__
