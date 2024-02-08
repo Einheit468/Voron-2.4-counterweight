@@ -15,9 +15,9 @@ Printing the Parts with the normal Settings of the Voron build.
 - Solide Top/Bottom Layer: Recommended: 5
 
 > [!WARNING]
-> The instructions refer to converting a built Voron, with a Can-Bus Toolhead.
-> Because the Z-cable drag needs to be replaced with the thinner ones.
-> Don't be surprised, the pictures are still old, the STL files are newer and correct.
+> The instructions refer to converting a built Voron, with a Can-Bus Toolhead.<br>
+> Because the Z-cable drag needs to be replaced with the thinner ones.<br>
+> Don't be surprised, the pictures are still old, the STL files are newer and correct.<br>
 
 # 01 modification AB-Gantry:<br>
 * For better assembly, move or push the gantry approximately 2/3 upwards.<br>
