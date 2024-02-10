@@ -11,7 +11,7 @@ __Table of contents__
 
 > [!WARNING]
 > The instructions refer to converting a built Voron, with a Can-Bus Toolhead.<br>
-> Because the Z-cable drag needs to be replaced with the thinner ones.<br>
+> Because the Z-cable chain needs to be replaced with the thinner ones.<br>
 > Don't be surprised, the pictures are still old, the STL files are newer and correct.<br>
 
 
@@ -30,8 +30,8 @@ Printing the Parts with the normal Settings of the Voron build.
 &uarr; [back to topic](#top)<br>
 
 * For better assembly, move or push the gantry approximately 2/3 upwards.<br>
-* Completely remove the existing Z drag.<br>
-* Insert 2x M3 Heat Set Inserts for the cable drag attachment into the "beldholder_flexible_button_cable_drag".<br>
+* Completely remove the existing Z chain.<br>
+* Insert 2x M3 Heat Set Inserts for the cable chain attachment into the "beldholder_flexible_button_cable_drag".<br>
 
 <img src='images/gantry_3.png' height='300'><br>
 
