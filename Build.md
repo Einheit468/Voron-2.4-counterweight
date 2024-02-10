@@ -122,5 +122,7 @@ Don't forget to attach the M3 Heat Set Inserts to the bottom for the lid.
 coming soon...
 
 # 06 hang and tension
-&uarr; [back to topic](#top)<br>
-coming soon...
+&uarr; [back to top](#top)<br>
+coming soon...<br><br>
+
+⬅ back to [Main Page](README.md)
