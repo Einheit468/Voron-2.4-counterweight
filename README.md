@@ -8,7 +8,7 @@ The disadvantage is that the acceleration force and braking force are increased.
 
 > [!WARNING]
 > __The project is not yet fully completed.__ <br>
-> - the building instructions are not finished yet. <br>
+> - the building instructions are work-in-progess. <br>
 > - some pictures are still old versions. <br>
 
 > [!IMPORTANT]
@@ -30,7 +30,7 @@ The lower strap is not mounted._
 
 # update
 
-* 10.02.22024: modify then beld tension on Gantry side. It wasn't aligned with the timing belts. <br> also add cable tie holders for timing belts and cables. <br>
+* 10.02.22024: modified the belt tension on  the gantry side. It wasn't aligned with the timing belts. <br> also added cable tie holders for timing belts and cables. <br>
 <img src='images/group_3.png' width='400'>  <br>
 <br>
 <br>
