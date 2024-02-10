@@ -1,4 +1,4 @@
-<img src='images/group_1.png' align="right" width='400'>
+<img src='images/group_4.png' align="right" width='400'>
 
 The project is currently intended exclusively for __Voron 2.4 350mm__. <br>
 The counterweight relieves the load on the rear Z stepper motors.<br>
