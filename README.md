@@ -28,6 +28,10 @@ The disadvantage is that the acceleration force and braking force are increased.
 _The weight is intentionally relaxed in the picture.
 The lower strap is not mounted._
 
+# update
+
+* 10.02.22024: modify then beld tension on Gantry side. It wasn't aligned with the timing belts. <br> also add cable tie holders for timing belts and cables. <br>
+<img src='images/group_3.png' width='400'>  <br>
 <br>
 <br>
 
