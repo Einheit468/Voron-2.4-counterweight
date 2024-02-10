@@ -73,5 +73,6 @@ BHCS = button head screw/ISO7380-1<br>
 | 4   | M5x16 BHCS        |                                                                                                                             |
 | 4   | M3 T-Nut          |                                                                                                                             |
 | 4   | M5 T-Nut          |                                                                                                                             |
-| 2   | GT2 6mm beld      | 470mm long (for up-side)                                                                                                     |
-| 2   | GT2 6mm beld      | >580mm long (for down-side) (not final yet, rather less)                                                                     |
+| 2   | GT2 6mm beld      | 470mm long (for up-side)                                                                                                    |
+| 2   | GT2 6mm beld      | >580mm long (for down-side) (not final yet, rather less)                                                                    |
+| 1   | Cable Drag        | ~500mm long (with endparts) its 26 parts with 2 endparts; out dimensions 17wide x 14,5 high                                 |
