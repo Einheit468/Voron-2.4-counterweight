@@ -44,7 +44,7 @@ BHCS = button head screw/ISO7380-1<br>
 | 2   | M5 T-Nut          |                                                                                                                             |
 | 2   | 8x500mm round rod |                                                                                                                             |
 | X   | small Zip Ties    |                                                                                                                             |
-| 2   | M3x6 FHCS         | for fixing the cable drag                                                                                                   |
+| 2   | M3x6 FHCS         | for fixing the cable chain                                                                                                  |
 | 4   | F695-2RS Precision Bearing |                                                                                                                    |
 | 4   | M5 Shim Ring      | ~1mm thick                                                                                                                  |
 
@@ -67,12 +67,12 @@ BHCS = button head screw/ISO7380-1<br>
 
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 2   | M3 Heatset Insert | Standard Voron spec: 5mm Outer Diameter x 4mm Length - for fixing the cable drag                                            |
-| 2   | M3x6 FHCS         | for fixing the cable drag                                                                                                   |
+| 2   | M3 Heatset Insert | Standard Voron spec: 5mm Outer Diameter x 4mm Length - for fixing the cable chain                                           |
+| 2   | M3x6 FHCS         | for fixing the cable chain                                                                                                  |
 | 4   | M3x10 BHCS        |                                                                                                                             |
 | 4   | M5x16 BHCS        |                                                                                                                             |
 | 4   | M3 T-Nut          |                                                                                                                             |
 | 4   | M5 T-Nut          |                                                                                                                             |
 | 2   | GT2 6mm beld      | 470mm long (for up-side)                                                                                                    |
 | 2   | GT2 6mm beld      | >580mm long (for down-side) (not final yet, rather less)                                                                    |
-| 1   | Cable Drag        | ~500mm long (with endparts) its 26 parts with 2 endparts; out dimensions 17wide x 14,5 high                                 |
+| 1   | Cable chain        | ~500mm long (with endparts) its 26 parts with 2 endparts; out dimensions 17wide x 14,5 high                                |
