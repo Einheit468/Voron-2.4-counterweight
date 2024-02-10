@@ -8,8 +8,12 @@ __Table of contents__
 - [05 beldholder up](#05-beldholder-up)
 - [06 hang and tension](#06-hang-and-tension)
 
-<br>
-<br>
+
+> [!WARNING]
+> The instructions refer to converting a built Voron, with a Can-Bus Toolhead.<br>
+> Because the Z-cable drag needs to be replaced with the thinner ones.<br>
+> Don't be surprised, the pictures are still old, the STL files are newer and correct.<br>
+
 
 # 01 Printing
 Printing the Parts with the normal Settings of the Voron build.
@@ -21,10 +25,6 @@ Printing the Parts with the normal Settings of the Voron build.
 - Wall Count: Recommended: 4
 - Solide Top/Bottom Layer: Recommended: 5
 
-> [!WARNING]
-> The instructions refer to converting a built Voron, with a Can-Bus Toolhead.<br>
-> Because the Z-cable drag needs to be replaced with the thinner ones.<br>
-> Don't be surprised, the pictures are still old, the STL files are newer and correct.<br>
 
 # 02 modification AB-Gantry
 &uarr; [back to topic](#top)<br>
