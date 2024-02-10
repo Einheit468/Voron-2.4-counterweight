@@ -1,4 +1,4 @@
-back to [Main Page](README.md)
+⬅ back to [Main Page](README.md)
 
 __Table of contents__
 - [Required Hardware](#Required-Hardware)
