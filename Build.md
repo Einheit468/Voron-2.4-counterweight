@@ -1,4 +1,4 @@
-back to [Main Page](README.md)
+⬅ back to [Main Page](README.md)
 
 __Table of contents__
 - [01 Printing](#01-Printing)
@@ -16,10 +16,10 @@ __Table of contents__
 
 
 # 01 Printing
-Printing the Parts with the normal Settings of the Voron build.
+Printing the Parts with the normal settings of the Voron build.
 - Material: ABS
 - Layer heigh: 0.2mm
-- Extrusion weidth: 0.4
+- Extrusion width: 0.4
 - Infill: Grid, Gyroid, Honeycomb, Triangle or Cubic
 - Infill Percentage: Recommended: 40%
 - Wall Count: Recommended: 4
@@ -27,7 +27,7 @@ Printing the Parts with the normal Settings of the Voron build.
 
 
 # 02 modification AB-Gantry
-&uarr; [back to topic](#top)<br>
+&uarr; [back to top](#top)<br>
 
 * For better assembly, move or push the gantry approximately 2/3 upwards.<br>
 * Completely remove the existing Z chain.<br>
@@ -59,7 +59,7 @@ _(The image is without AB_Drive_Units, it starts where the profile ends.)_
 
 
 # 03 beldholder down
-&uarr; [back to topic](#top)<br>
+&uarr; [back to top](#top)<br>
 <img src='images/beldholder_down_1.png' width='500'>
 <br>
 <p>
@@ -92,7 +92,7 @@ _(The image is without AB_Drive_Units, it starts where the profile ends.)_
 * Attach the cable trailing end to the support.
 
 # 04 counterweight
-&uarr; [back to topic](#top)<br>
+&uarr; [back to top](#top)<br>
 <p>
 <img src='picture/counterweight_06.jpg' height='150'>
 <img src='picture/counterweight_11.jpg' height='150'>
@@ -113,7 +113,7 @@ _(The image is without AB_Drive_Units, it starts where the profile ends.)_
 Don't forget to attach the M3 Heat Set Inserts to the bottom for the lid.
 
 # 05 beldholder up
-&uarr; [back to topic](#top)<br>
+&uarr; [back to top](#top)<br>
 <p>
 <img src='images/beldholder_up_left_1.png' height='200'>
 <img src='images/beldholder_up_left_2.png' height='200'>
@@ -122,5 +122,7 @@ Don't forget to attach the M3 Heat Set Inserts to the bottom for the lid.
 coming soon...
 
 # 06 hang and tension
-&uarr; [back to topic](#top)<br>
-coming soon...
+&uarr; [back to top](#top)<br>
+coming soon...<br><br>
+
+⬅ back to [Main Page](README.md)

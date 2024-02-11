@@ -1,4 +1,4 @@
-back to [Main Page](README.md)
+⬅ back to [Main Page](README.md)
 
 __Table of contents__
 - [Required Hardware](#Required-Hardware)
@@ -14,7 +14,7 @@ FHCS = flat-head cap screw/ISO10642<br>
 BHCS = button head screw/ISO7380-1<br>
 
 # beldholder_up
-&uarr; [back to topic](#top)<br>
+&uarr; [back to top](#top)<br>
 
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@ BHCS = button head screw/ISO7380-1<br>
 
 
 # beldholder_down
-&uarr; [back to topic](#top)<br>
+&uarr; [back to top](#top)<br>
 
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -49,7 +49,7 @@ BHCS = button head screw/ISO7380-1<br>
 | 4   | M5 Shim Ring      | ~1mm thick                                                                                                                  |
 
 # counterweight
-&uarr; [back to topic](#top)<br>
+&uarr; [back to top](#top)<br>
 
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +63,7 @@ BHCS = button head screw/ISO7380-1<br>
 | 2   | 8mm Linear bearing |  45mm long                                                                                                                 |
 
 # gantry
-&uarr; [back to topic](#top)<br>
+&uarr; [back to top](#top)<br>
 
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
