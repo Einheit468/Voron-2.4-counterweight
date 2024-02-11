@@ -76,3 +76,5 @@ BHCS = button head screw/ISO7380-1<br>
 | 2   | GT2 6mm beld      | 470mm long (for up-side)                                                                                                    |
 | 2   | GT2 6mm beld      | 506mm long (for down-side)                                                                                                  |
 | 1   | Cable chain        | ~500mm long (with endparts) its 26 parts with 2 endparts; out dimensions 17wide x 14,5 high                                |
+
+⬅ back to [Main Page](README.md)
