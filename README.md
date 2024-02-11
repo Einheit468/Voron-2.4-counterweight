@@ -5,6 +5,17 @@ The counterweight relieves the load on the rear Z stepper motors.<br>
 Possible sagging of the gantry is also reduced.<br>
 
 The disadvantage is that the acceleration force and braking force are increased.<br>
+<br>
+<br>
+
+> [!WARNING]
+> I noticed that during input shaping the vibrations start to rattle due to the play in the counterweight bearing.
+> Still looking for a solution to the problem.
+
+<br>
+<br>
+<br>
+<br>
 
 > [!WARNING]
 > __The project is not yet fully completed.__ <br>
