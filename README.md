@@ -41,8 +41,9 @@ The lower strap is not mounted._
 
 # Changelog
 
-* 10.02.22024: modified the belt tension on  the gantry side. It wasn't aligned with the timing belts. <br> also added cable tie holders for timing belts and cables. <br>
+* 10.02.2024: modified the belt tension on  the gantry side. It wasn't aligned with the timing belts. <br> also added cable tie holders for timing belts and cables. <br>
 <img src='images/group_3.png' width='400'>  <br>
+* 12.02.2024: Distance increased by 0.5mm between gantry and counterweight. <br> Because he sanded minimally.
 <br>
 <br>
 
