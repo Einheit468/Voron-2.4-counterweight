@@ -21,6 +21,8 @@ The disadvantage is that the acceleration force and braking force are increased.
 > __The project is not yet fully completed.__ <br>
 > - the building instructions are work-in-progess. <br>
 > - some pictures are still old versions. <br>
+> <br>
+> But the parts and BOM are functional. <br>
 
 > [!IMPORTANT]
 > The __Z-cable chain__ must/should be exchanged for one of the narrower __X or Y cable chain__.
