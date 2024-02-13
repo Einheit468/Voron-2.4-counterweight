@@ -9,8 +9,8 @@ The disadvantage is that the acceleration force and braking force are increased.
 <br>
 
 > [!WARNING]
-> I noticed that during input shaping the vibrations start to rattle due to the play in the counterweight bearing.
-> Still looking for a solution to the problem.
+> __I noticed that during input shaping the vibrations start to rattle due to the play in the counterweight bearing.
+> Still looking for a solution to the problem.__
 
 <br>
 <br>
